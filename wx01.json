@@ -1,6 +1,6 @@
 {
     "myNickname": "阳光总在风雨后",
-    "desc": "任务10000",
+    "desc": "任务01",
     "intervalTime": 3,
     "intervalMinute": 2,
     "valAdd": true,
@@ -9,10 +9,6 @@
         "11",
         "12",
         "13"
-    ],
-    "minutes": [
-        "08",
-        "09"
     ],
     "subStart": "亲,理疗加",
     "subEnd": "聊哦",
