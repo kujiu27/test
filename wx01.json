@@ -1,0 +1,51 @@
+{
+    "myNickname": "阳光总在风雨后",
+    "desc": "任务10000",
+    "intervalTime": 3,
+    "intervalMinute": 2,
+    "valAdd": true,
+    "max": 98,
+    "hours": [
+        "11",
+        "12",
+        "13"
+    ],
+    "minutes": [
+        "08",
+        "09"
+    ],
+    "subStart": "亲,理疗加",
+    "subEnd": "聊哦",
+    "phones": [
+        {
+            "phone": "13097256750",
+            "nickname": "舒",
+            "currentNum": 0,
+            "maxNum": 15
+        },
+        {
+            "phone": "17172601880",
+            "nickname": "小沐",
+            "currentNum": 0,
+            "maxNum": 15
+        },
+        {
+            "phone": "16741161392",
+            "nickname": "薇薇",
+            "currentNum": 0,
+            "maxNum": 15
+        },
+        {
+            "phone": "16228945039",
+            "nickname": "乐乐",
+            "currentNum": 0,
+            "maxNum": 15
+        },
+        {
+            "phone": "16228945032",
+            "nickname": "珊珊",
+            "currentNum": 0,
+            "maxNum": 15
+        }
+    ]
+}
